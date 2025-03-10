@@ -1,12 +1,12 @@
 [
-  "/data/credit-cards.json",
-  "/data/options.json",
-  "/data/rebates.json",
-  "/images/.gitignore",
-  "/images/citi_cash_back.webp",
-  "/images/dbs_eminent_vp.webp",
-  "/images/dbs_eminent_vs.webp",
-  "/images/hs_mmpower.webp",
-  "/images/hsbc_red.webp",
-  "/images/sc_simple_cash.webp"
+  "data/credit-cards.json",
+  "data/options.json",
+  "data/rebates.json",
+  "images/.gitignore",
+  "images/citi_cash_back.webp",
+  "images/dbs_eminent_vp.webp",
+  "images/dbs_eminent_vs.webp",
+  "images/hs_mmpower.webp",
+  "images/hsbc_red.webp",
+  "images/sc_simple_cash.webp"
 ]
